@@ -3,7 +3,7 @@
 
 proyecto hecho para aprender a usar express para apis  
 
-<img src="assets\Screen Shot 2019-06-10 at 11.30.20 AM.png" alt="drawing" width="200"/>
+<img src="assets/express.png" alt="express" width=385 align="center"/>
 
 ___
 
@@ -12,5 +12,5 @@ ___
 ejecutar __npm start__  para iniciar el programa
 
 ```javascript
-    npm start
+    npm start 
 ```
