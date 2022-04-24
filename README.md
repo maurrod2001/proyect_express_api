@@ -3,7 +3,7 @@
 
 proyecto hecho para aprender a usar express para apis  
 
-<img src="assets/express.png" alt="express" width=385 align="center"/>
+<img src="assets/express.png" alt="express"/>
 
 ___
 
